@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.javasampleapproach.springrest.postgresql.SpringRestPostgreSqlApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-27T14:18:42" hostname="Panigrahy-PC" time="0.087">
+  <properties/>
+  <testcase name="testGetAllCustomers" classname="com.javasampleapproach.springrest.postgresql.SpringRestPostgreSqlApplicationTests" time="0.087"/>
+  <system-out><![CDATA[Get all Customers...
+1
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
